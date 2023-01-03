@@ -11,3 +11,6 @@ This library is the base for [ESPAsyncWebServer](https://github.com/me-no-dev/ES
 
 ## AsyncClient and AsyncServer
 The base classes on which everything else is built. They expose all possible scenarios, but are really raw and require more skills to use.
+
+## Synclient
+Ported synclient to esp32 from esp8266
